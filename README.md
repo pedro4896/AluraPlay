@@ -20,7 +20,9 @@
 
 
 # Conexão
-## instalar o nodeJS
-## instalar o json server -> npm install -g json-server
-## executar no powerShell -> Set-ExecutionPolicy RemoteSigned (Atribuir permissão A)
-## executar o comando json-server --watch db.json
+<ol>
+    <li>instalar o nodeJS</li>
+    <li>instalar o json server -> npm install -g json-server</li>
+    <li>executar no powerShell -> Set-ExecutionPolicy RemoteSigned (Atribuir permissão A)</li>
+    <li>executar o comando json-server --watch db.json</li>
+</ol>
